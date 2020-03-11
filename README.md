@@ -20,7 +20,7 @@ INSTALLATION REQUIREMENTS
   - [Redis-tools package](https://redis.io/topics/rediscli) 🔥
 
 ENV PREPARATION 
-------------
+-------------
 1. Install nodeJS and npm 🔥
 2. Install Docker 🔥🔥
 3. Install pm2 package globally(sudo required) 🔥
